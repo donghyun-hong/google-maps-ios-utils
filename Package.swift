@@ -29,7 +29,7 @@ let package = Package(
   dependencies: [
     .package(
       url: "https://github.com/googlemaps/ios-maps-sdk",
-      from: "8.3.1")
+      from: "9.0.0")
   ],
   targets: [
     .target(
